@@ -1,2 +1,2 @@
-# Statistics-Rocks-MasterCosmosUAB-
+# Statistics-Rocks-MasterCosmosUAB
 Codes for the statistics subject
